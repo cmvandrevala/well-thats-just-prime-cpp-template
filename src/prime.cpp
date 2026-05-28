@@ -1,5 +1,5 @@
 #include <string>
 
 std::string prime() {
-   return "You can delete this function and replace it with your own!";
+   return "This is an example function. You can delete it when you start this lab!";
 }

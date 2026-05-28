@@ -3,5 +3,5 @@
 #include "src/prime.hpp"
 
 int main() {
-  // Your driver program goes here
+  std::cout << prime() << std::endl;
 }
